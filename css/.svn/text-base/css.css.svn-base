@@ -1,0 +1,20 @@
+html,body{height:100%;}
+body{margin:0px;text-align:left;font:12px/140% "宋体",Arial,Verdana;background:#f2f0f0;}
+div, dl, dt,td, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, p, blockquote{list-style:none;margin:0px;padding:0px;}
+Img {border:0;margin:0px;padding:0px;float:left;}
+address, button, caption, cite, code, dfn, em, input, optgroup, option, select, strong, textarea, th, var{font-style:normal;}
+.box{width:970px;height:auto;margin:8px auto;position:relative; display:block;}
+.box li{width:226px;height:auto;float:left;display:inline;margin:8px;border-radius:5px;background:#fff;box-shadow: 0px 0px 10px #cdcdcd;position:absolute;//filter:alpha(opacity=1);opacity:0.1; border:1px solid #dddddd;}
+.box li .img{padding:13px 13px 0 13px;float:left;height:auto;width:200px;}
+.box li .fun{float:left;height:33px;width:200px;color:#666;}
+.box li .tit{width:200px;height:auto;float:left;background:#f1f1f1; padding:10px 13px;}
+.box li .ico{width:32px;height:32px;float:left;}
+.box li .con{width:163px;height:auto;float:left;padding-left:5px;color:#666;text-align:left;line-height:20px;}
+.box li .user{width:163px;height:20px;float:left;line-height:20px;text-align:left;}
+.box li .time{float:right;color:#999;font-family:Verdana;font-size:10px;}
+.box li .like{background:url(../images/Like.jpg) no-repeat left;width:68px;height:33px;line-height:33px;text-align:left;color:#666;padding-left:20px;padding-right:10px;float:left;}
+.box li .like em{color:#ff67bb;font-weight:bold;font-family:Arial;font-size:14px;}
+.box li .review{background:url(../images/review.jpg) no-repeat left;width:50px;height:33px;line-height:33px;text-align:left;color:#666;padding-left:20px;float:left;}
+.box li .review em{color:#ff67bb;font-weight:bold;font-family:Arial;font-size:14px;}
+.bottomLoad{width:957px;height:28px;background:#fff url(../images/load.gif) no-repeat 400px center;border:1px solid #ddd;position:absolute;left:0px;bottom:-30px;margin:8px;border-radius:5px;box-shadow: 0px 0px 10px #cdcdcd; text-align:center;line-height:30px;color:#666;}
+
